@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch request",
+            "request": "launch",
+            "mainClass": "request",
+            "projectName": "Ozymandias_ec62b3ef"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
